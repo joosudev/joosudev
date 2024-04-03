@@ -1,6 +1,5 @@
 
-![toji](https://github.com/joosudev/joosudev/assets/47118243/121d92e5-f89b-470f-9f93-2b525eb8dee5)
-
+![simple](https://github.com/joosudev/joosudev/assets/47118243/45384290-391f-4d15-95a7-f4cf65c53db7)
 
 
 # 💫 Sobre Mi:
