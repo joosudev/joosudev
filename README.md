@@ -3,7 +3,7 @@
 
 
 # 💫 Sobre Mi:
-🔥⚡Apasionado por:<br> La educación👨‍🏫<br> La tecnología 👨‍💻<br> El comercio 🤝📈<br>Me gusta: La lectura 📚, el deporte ⚽, Ver películas-series-animes🍿
+<h6>🔥⚡Apasionado por: La educación👨‍🏫, La tecnología 👨‍💻, El comercio 🤝📈<br>Me gusta: La lectura 📚, el deporte ⚽, Ver películas-series-animes🍿</h6>
 
 
 # 💻 Tech Stack:
