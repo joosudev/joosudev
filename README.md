@@ -3,7 +3,8 @@
 
 
 # 💫 About Me:
-🎓Lic. en Informatica <br> 👨‍💻Programador <br> 👨‍🏫 Profesor
+### 🎓Lic. en Informatica <br> 👨‍💻Programador <br> 👨‍🏫 Profesor
+
 
 
 ## 🌐 Socials:
