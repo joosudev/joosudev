@@ -2,12 +2,12 @@
 ![simple](https://github.com/joosudev/joosudev/assets/47118243/45384290-391f-4d15-95a7-f4cf65c53db7)
 
 
-# 💫 About Me:
+# 💫 Sobre Mi:
 ### 🎓Lic. en Informatica <br> 👨‍💻Programador <br> 👨‍🏫 Profesor
 
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociales:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/VladimirWillians) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vjwillians) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vladimir-willians/) 
 
 # 👨‍💻 Lenguajes:
