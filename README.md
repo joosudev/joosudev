@@ -3,7 +3,7 @@
 
 
 # 💫 Sobre Mi:
-### 🎓Lic. en Informatica <br> 👨‍💻Programador <br> 👨‍🏫 Profesor
+### 🎓Lic. en Informatica <br> 👨‍💻Desarrollador FullStack <br> 👨‍🏫 Profesor
 
 
 
