@@ -1,7 +1,6 @@
 
 
-![IMG_1094](https://github.com/joosudev/joosudev/assets/47118243/39159f90-35a7-40e3-a991-c0a785f79090)
-
+![portada](https://github.com/joosudev/joosudev/assets/47118243/bfc486df-0ad6-4e6d-9a33-56c0ea10b25f)
 
 # 💫 Sobre Mi:
 ### 🎓Lic. en Informatica <br> 👨‍💻Desarrollador FullStack <br> 👨‍🏫 Profesor
