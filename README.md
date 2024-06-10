@@ -1,6 +1,6 @@
 
-![portada github](https://github.com/joosudev/joosudev/assets/47118243/a9fff4ac-406f-4d39-8c5d-c6064cfaa3aa)
 
+![portada](https://github.com/joosudev/joosudev/assets/47118243/fe1470f7-8797-4491-a785-a5dda1b7a0ef)
 
 
 # 💫 Sobre Mi:
